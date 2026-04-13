@@ -79,7 +79,7 @@ I architect systems and guide AI tools with precise context — the right file p
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/unurbat-tumenulzii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="unurbat-tumenulzii" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/unurbat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="unurbat-tumenulzii" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/unurut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="unurut" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/unurbat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="unurbat" height="30" width="40" /></a>
 </p>
