@@ -15,7 +15,9 @@
 
 - 📄 Know about my experiences: [unurbat.com/resume](https://unurbat.com/resume)
 
-- ⚡ Fun fact: **I can’t play well, but I’m a big fan of basketball**
+### 🧩 How I Work
+
+I architect systems and guide AI tools with precise context — the right file paths, clear constraints, and structured instructions — to ship production code faster with fewer iterations. I focus on **what to build and why**, letting AI handle the implementation details.
 
 ---
 
