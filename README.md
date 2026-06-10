@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **unurut@gmail.com**
 
-- 📄 Know about my experiences: [unurbat.com/resume](https://unurbat.com/resume)
+- 📄 Know about my experiences: [[unurbat.com/resume](https://unurbat.com/resume)](https://unurbat2848.github.io/)
 
 ### 🧩 How I Work
 
